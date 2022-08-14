@@ -1,0 +1,7 @@
+name: MysqlAPI
+version: 1.0
+api-version: 1.18
+author: lupu
+main: de.lupu.smapi.MysqlAPI
+
+commands:
